@@ -3,7 +3,9 @@
 # Escuela de Innovación
 Material de los Episodios 8 y 9 de la Academia de Datos de la Escuela de Innovación.
 
-### Slides
-* [8.1 Introducción a los datos no estructurados](https://docs.google.com/presentation/d/1KWS_QCQ4ExQwsgtnBYnAJWFHyaCK-H3oZW36_SAD8-Q/edit#slide=id.g6a03b85e6528a9ad_113)
-* [8.2 Arquitectura de datos II](https://docs.google.com/presentation/d/1t6VRq5S2twVmuzpPV8fSncsnsZopq9wJgsv4xHQEuIk/edit#slide=id.g1f307c451e3_1_19)
-* [8.3 Análisis de datos no estructurados](https://docs.google.com/presentation/d/1prN9oa9rH2ovD28uoES1rfpuE9BAAmQnPzB5kONG7RE/edit#slide=id.g2bfda49587e_0_32)
+### Slides Episodio 8
+* [8.1 Introducción a los datos no estructurados](https://docs.google.com/presentation/d/1KWS_QCQ4ExQwsgtnBYnAJWFHyaCK-H3oZW36_SAD8-Q/edit)
+* [8.2 Arquitectura de datos II](https://docs.google.com/presentation/d/1t6VRq5S2twVmuzpPV8fSncsnsZopq9wJgsv4xHQEuIk/edit)
+* [8.3 Análisis de datos no estructurados](https://docs.google.com/presentation/d/1prN9oa9rH2ovD28uoES1rfpuE9BAAmQnPzB5kONG7RE/edit)
+
+### Slides Episodio 9
