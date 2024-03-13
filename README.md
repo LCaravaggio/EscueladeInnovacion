@@ -12,3 +12,6 @@ Material de los Episodios 8 y 9 de la Academia de Datos de la Escuela de Innovac
 
 ### Slides Episodio 9
 * [9.1 Introducción a la Ciencia de Datos](https://docs.google.com/presentation/d/1NPhyE9_yDgIfycmx9nt4Lz0Wmw40OnUG81D-fVGYdO0/edit?usp=sharing)
+* [9.2 Estadística III](https://docs.google.com/presentation/d/1K8Ljcv8GcM2kD45J3qjMPcAKwYtOii_5HToPKhhokdU/edit#slide=id.g1f3e6abf71f_0_57)
+* [9.3 Análisis con Pandas](https://docs.google.com/presentation/d/13Osu5Msmo5Ox0CEpTh4gRGQzTlF6Z8h2BgIKPCPLozY/edit#slide=id.g1f3d5d4b64a_0_92)
+* [9.4 Programación con Python](https://docs.google.com/presentation/d/1LDtXqKhrXgxWAYM9PM9EFmFPKNrG1635fd1OcQt1ays/edit#slide=id.g1f3d5d4b64a_0_88)
