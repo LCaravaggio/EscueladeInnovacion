@@ -23,3 +23,6 @@ Material de los Episodios 8, 9 y 10 de la Academia de Datos de la Escuela de Inn
 * [10.3 Modelos Analíticos y Machine Learning Aplicado](https://docs.google.com/presentation/d/1e95lz4unTMS_aYL77uc--pq_GD5DpfLeaGVTMsQ1Hx4)
 * [10.4 Monetización de Ciencia de Datos y Machine Learning](https://docs.google.com/presentation/d/1d9wp-3UilRRGsUCtZIu2Ol2S5Fjal3-VtvMYwRLHs8U)
 * [10.5 Ejercicio Integrador y revisión total de conceptos](https://docs.google.com/presentation/d/1XXZzy69C9rCxC02uWzQQ7H1yeqXVTwqwc595Vpyt3u4)
+
+### Syllabus
+* [Syllabus](https://docs.google.com/document/d/1Dm8LDnb-C4ft28NfNQ8j9Ti3Eyovgj4Pw7HuUxAjROM/edit)
