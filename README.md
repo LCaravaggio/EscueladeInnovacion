@@ -8,6 +8,7 @@ Material de los Episodios 2, 8, 9 y 10 de la Academia de Datos de la Escuela de 
 * [2.2 Bases de datos](https://docs.google.com/presentation/d/1ENR1bLUrmoE8jOxujCqmFmIPUaoF_XyhxwoQzw9g-JM/edit?usp=sharing)
 * [2.3 Probabilidad y Estadística](https://docs.google.com/presentation/d/17GOs3z6yGOkAsKabTtOBtRhM_91Ty7t8oUjpGwqa7lI/edit?usp=sharing)
 * [2.4 Preparación de datos](https://docs.google.com/presentation/d/1qhUCcDX_aAMvZYfcPBWiuQ0aMjPfZ2p2ihpzOGEbbrI/edit?usp=sharing)
+* [2.5 Clase de Repaso](https://docs.google.com/presentation/d/1wmWy_05VWjGdlc2ikxf5FbchSZ9vKpZGz83h7dk7OD8)
 
 ### Slides Episodio 8 - El mundo no estructurado
 * [8.1 Introducción a los datos no estructurados](https://docs.google.com/presentation/d/1KWS_QCQ4ExQwsgtnBYnAJWFHyaCK-H3oZW36_SAD8-Q)
